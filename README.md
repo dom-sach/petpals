@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" alt="PetPals banner" width="100%">
+  <img src="https://raw.githubusercontent.com/dom-sach/petpals/main/images/banner.png" alt="PetPals banner">
 </p>
 
 # PetPals
