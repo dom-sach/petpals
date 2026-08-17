@@ -1,4 +1,4 @@
-![PetPals banner](https://github.com/dom-sach/petpals/blob/main/images/banner.png?raw=true)
+![PetPals banner](/images/banner.png)
 
 # PetPals
 
