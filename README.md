@@ -1,3 +1,5 @@
+![PetPals banner](https://github.com/dom-sach/petpals/blob/main/images/banner.png?raw=true)
+
 # PetPals
 
 PetPals is a mobile social application developed as a team engineering project at Wrocław University of Science and Technology. The project addresses a socially motivated problem: the difficulty of building local relationships and finding walking companions among dog owners, especially in larger cities. The application was designed as a dedicated digital space where dog owners can connect with each other, create profiles for their pets, organize walks, communicate and build local communities around everyday dog-related activities.
