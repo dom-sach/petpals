@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="PetPals banner" width="100%">
+  <img src="./images/banner.png" alt="PetPals banner" width="100%">
 </p>
 
 # PetPals
@@ -34,15 +34,15 @@ The application includes a set of features supporting both general social intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/welcome_screen.png" width="250"><br>
+      <img src="./images/welcome_screen.png" width="250"><br>
       <b>Welcome Screen</b>
     </td>
     <td align="center">
-      <img src="images/register_user.png" width="250"><br>
+      <img src="./images/register_user.png" width="250"><br>
       <b>User Registration</b>
     </td>
     <td align="center">
-      <img src="images/edit_my_profile.png" width="250"><br>
+      <img src="./images/edit_my_profile.png" width="250"><br>
       <b>Edit Profile</b>
     </td>
   </tr>
@@ -54,25 +54,25 @@ The application includes a set of features supporting both general social intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/visiting_user_profile.png" width="250"><br>
+      <img src="./images/visiting_user_profile.png" width="250"><br>
       <b>User Profile</b>
     </td>
     <td align="center">
-      <img src="images/user_profile_posts.png" width="250"><br>
+      <img src="./images/user_profile_posts.png" width="250"><br>
       <b>User Posts</b>
     </td>
     <td align="center">
-      <img src="images/visiting_post_page.png" width="250"><br>
+      <img src="./images/visiting_post_page.png" width="250"><br>
       <b>Post Details</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/visiting_pet_profile.png" width="250"><br>
+      <img src="./images/visiting_pet_profile.png" width="250"><br>
       <b>Pet Profile</b>
     </td>
     <td align="center">
-      <img src="images/editing_pet_profile.png" width="250"><br>
+      <img src="./images/editing_pet_profile.png" width="250"><br>
       <b>Edit Pet Profile</b>
     </td>
     <td></td>
@@ -85,11 +85,11 @@ The application includes a set of features supporting both general social intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/list_of_chats.png" width="250"><br>
+      <img src="./images/list_of_chats.png" width="250"><br>
       <b>Chats</b>
     </td>
     <td align="center">
-      <img src="images/user_chat.png" width="250"><br>
+      <img src="./images/user_chat.png" width="250"><br>
       <b>Conversation</b>
     </td>
   </tr>
@@ -101,25 +101,25 @@ The application includes a set of features supporting both general social intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/find_group_walk.png" width="250"><br>
+      <img src="./images/find_group_walk.png" width="250"><br>
       <b>Find a Group Walk</b>
     </td>
     <td align="center">
-      <img src="images/group_walk_page.png" width="250"><br>
+      <img src="./images/group_walk_page.png" width="250"><br>
       <b>Group Walk Details</b>
     </td>
     <td align="center">
-      <img src="images/create_group_walk.png" width="250"><br>
+      <img src="./images/create_group_walk.png" width="250"><br>
       <b>Create a Group Walk</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/edit_group_walk.png" width="250"><br>
+      <img src="./images/edit_group_walk.png" width="250"><br>
       <b>Edit Group Walk</b>
     </td>
     <td align="center">
-      <img src="images/my_scheduled_walks.png" width="250"><br>
+      <img src="./images/my_scheduled_walks.png" width="250"><br>
       <b>Scheduled Walks</b>
     </td>
     <td></td>
@@ -132,25 +132,25 @@ The application includes a set of features supporting both general social intera
 <table>
   <tr>
     <td align="center">
-      <img src="images/walk_now.png" width="250"><br>
+      <img src="./images/walk_now.png" width="250"><br>
       <b>Walk Now</b>
     </td>
     <td align="center">
-      <img src="images/start_walk.png" width="250"><br>
+      <img src="./images/start_walk.png" width="250"><br>
       <b>Start Walk</b>
     </td>
     <td align="center">
-      <img src="images/walk_in_progress.png" width="250"><br>
+      <img src="./images/walk_in_progress.png" width="250"><br>
       <b>Walk in Progress</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/walk_summary.png" width="250"><br>
+      <img src="./images/walk_summary.png" width="250"><br>
       <b>Walk Summary</b>
     </td>
     <td align="center">
-      <img src="images/my_activity.png" width="250"><br>
+      <img src="./images/my_activity.png" width="250"><br>
       <b>My Activity</b>
     </td>
     <td></td>
